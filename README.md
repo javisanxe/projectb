@@ -1,2 +1,1 @@
-# projectb
-Learning repositories - Curso hiberus
+# projectb's README
